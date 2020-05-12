@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://rededeempreendedores.com.br/wp-content/uploads/2016/02/clean-white-polygon-backgrounds-7-copy-1.jpg);
+    background-size: auto 100vh;
+    font-family: arial;
+    heigth: 100vh; 
+  }
+  
+  .menu {
+    background-color: cadetblue;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none; color: white; 
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: teal;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: teal;
+    text-align: center;
+    font-style: italic;
+  }
